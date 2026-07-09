@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kr-jeonnamgwangju-hampyeong.github.io/sitemap.xml
